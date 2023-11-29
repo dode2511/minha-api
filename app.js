@@ -4,7 +4,7 @@ import routes from './routes.js'
 
 import { sequelize } from './databases/conecta.js'
 import { Cliente } from './models/Cliente.js'
-import { Roupa } from './models/Roupas.js'
+import { Roupa } from './models/Roupa.js'
 import { Avaliacao } from './models/Avaliacao.js'
 
 const app = express()

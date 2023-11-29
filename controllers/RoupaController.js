@@ -1,4 +1,4 @@
-import { Roupa } from "../models/Roupas"
+import { Roupa } from "../models/Roupa.js"
 
 
 export const roupaIndex = async (req, res) => {
